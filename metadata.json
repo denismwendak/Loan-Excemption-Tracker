@@ -1,0 +1,6 @@
+{
+  "name": "Credit Exemption Tracking System",
+  "description": "A comprehensive full-stack system for credit officers and senior managers to request, approve, and track risk exemptions and conditions for credit requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
